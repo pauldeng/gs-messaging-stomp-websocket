@@ -29,7 +29,7 @@
             <artifactId>spring-messaging</artifactId>
         </dependency>
 
-		<!-- Uncomment this section below to generate deployable WAR file -->
+		<!-- Uncomment this section below to generate deployable WAR file or comment it to generate executable JAR file. -->
 		<!--
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
