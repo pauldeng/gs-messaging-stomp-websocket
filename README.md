@@ -23,7 +23,7 @@ Added path name to the JS. If depoly to Tomcat, the path name is required for th
 
 ## How to Compile
 1. Read and edit the POM file to choose your prefered package. (Executable JAR is the default.)
-2. MVN Package
+2. mvn package
 3. Now you have the compiled target package
 
 
